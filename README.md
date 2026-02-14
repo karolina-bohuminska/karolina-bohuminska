@@ -15,13 +15,13 @@ My primary focus is on building robust data pipelines, analyzing complex dataset
 Here you'll find implementation projects from my BSc. studies at CTU, focusing on core AI concepts and algorithms:
 
 *   **[Machine Learning & Recognition](https://github.com/karolina-bohuminska/Recognition-and-Machine-Learning)**
-    Implementation of classic ML models (SVM, EM, Bayes) and pattern recognition tasks.
+    Implementation of classic ML models (Bayes, Perceptron, SVM, AdaBoost, Neural Networks) and pattern recognition tasks.
     
 *   **[Deep Learning](https://github.com/karolina-bohuminska/Deep-Learning)**
     Explorations of neural networks, including Double Descent phenomenon analysis and manual Backpropagation implementation.
 
 *   **[Digital Image Processing](https://github.com/karolina-bohuminska/Digital-Image-Processing)**
-    Algorithms for image manipulation, filtering, restoration, and analysis.
+    Algorithms for image manipulation, filtering, registration, and segmentation.
 
 
 
