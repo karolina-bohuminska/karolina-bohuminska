@@ -31,5 +31,5 @@ Here you'll find implementation projects from my undergraduate studies at CTU, f
 
 *   **Languages:** Python, SQL, C
 *   **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch
-*   **Tools:** Git, Bash, Docker, Jupyter, MLflow
+*   **Tools:** Git, Bash, Docker, Jupyter, MLflow, Matlab
 
