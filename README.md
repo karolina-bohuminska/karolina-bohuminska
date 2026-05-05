@@ -1,8 +1,8 @@
 ### Hi there!
 
-**Data Analyst & Researcher bridging the gap between analytics and engineering.**
+**Data Analyst & Engineer bridging the gap between technical foundations and business insights.**
 
-I specialize in **Machine Learning**, **Signal/Image Processing**, and **Python automation**. Currently pursuing a Master's degree in Data & AI at **VŠE** after building a strong technical foundation at **CTU**.
+I focus on **Data Engineering, Analytics**, and **Python automation**, with a strong interest in the practical application of **Machine Learning**. Currently pursuing a Master's degree in **Data & AI** at **VŠE**, leveraging a rigorous **engineering foundation** from **CTU**.
 
 ---
 
@@ -23,6 +23,9 @@ Here you'll find implementation projects from my undergraduate studies at CTU, f
 *   **[Digital Image Processing](https://github.com/karolina-bohuminska/Digital-Image-Processing)**
     Algorithms for image processing: filtering, convolution, registration, segmentation.
 
+*   **[Computational Cybernetics](https://github.com/karolina-bohuminska/Computational-Cybernetics)**
+    Implementation of autonomous decision-making (A*, Minimax, MDP, Q-Learning) and pattern recognition (k-NN, Naive Bayes) with statistical model evaluation in Python.
+
 
 
 ---
@@ -30,6 +33,6 @@ Here you'll find implementation projects from my undergraduate studies at CTU, f
 ### Tech Stack
 
 *   **Languages:** Python, SQL, C
-*   **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch
-*   **Tools:** Git, Bash, Docker, Jupyter, MLflow, Matlab
+*   **Libraries:** Pandas, Polars, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch
+*   **Tools:** Git, Bash, Docker, Jupyter, MLflow, Matlab, Power BI
 
