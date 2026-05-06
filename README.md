@@ -39,4 +39,4 @@ Here you'll find implementation projects from my undergraduate studies at CTU, f
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/karol%C3%ADna-bohum%C3%ADnsk%C3%A1-44481038a/)
