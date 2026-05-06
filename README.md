@@ -37,6 +37,7 @@ Here you'll find implementation projects from my undergraduate studies at CTU, f
   
 ---
 
-### Let's Connect
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/karol%C3%ADna-bohum%C3%ADnsk%C3%A1-44481038a/)
+Email: k.bohuminska@outlook.com
