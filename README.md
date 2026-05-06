@@ -6,10 +6,6 @@ I focus on **Data Engineering, Analytics**, and **Python automation**, with a st
 
 ---
 
-### What I'm working on
-
-My primary focus is on building robust data pipelines, analyzing complex datasets (like wearable sensor data), and automating clinical research workflows.
-
 ### Featured Coursework & Repositories
 
 Here you'll find implementation projects from my undergraduate studies at CTU, focusing on core AI concepts and algorithms:
@@ -26,13 +22,21 @@ Here you'll find implementation projects from my undergraduate studies at CTU, f
 *   **[Computational Cybernetics](https://github.com/karolina-bohuminska/Computational-Cybernetics)**
     Implementation of autonomous decision-making (A*, Minimax, MDP, Q-Learning) and pattern recognition (k-NN, Naive Bayes) with statistical model evaluation in Python.
 
+### Personal Projects
 
+*   **[Web Scraping & PowerBI Dashboard](https://github.com/karolina-bohuminska/Web-Scraping-PowerBI-Dashboard)**
+    Multithreaded Python scraper for books.toscrape.com with live GBP→CZK currency conversion, automated CSV export, and an exploratory Power BI dashboard for book catalogue analysis.
 
 ---
 
 ### Tech Stack
 
 *   **Languages:** Python, SQL, C
-*   **Libraries:** Pandas, Polars, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch
-*   **Tools:** Git, Bash, Docker, Jupyter, MLflow, Matlab, Power BI
+*   **Libraries:** Pandas, Polars, Matplotlib, Seaborn, Scikit-Learn, PyTorch, BeautifulSoup4
+*   **Tools:** Git, Bash, Docker, Jupyter, MLflow, MATLAB, Power BI
+  
+---
 
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
